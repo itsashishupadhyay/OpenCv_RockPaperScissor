@@ -13,6 +13,7 @@ modified the finger reading algrithem to make the game of Rock paper Scissor out
 * imutils
 * numpy
 * sklearn
+* tkinter
 
 use:
 
