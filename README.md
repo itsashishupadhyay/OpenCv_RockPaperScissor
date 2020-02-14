@@ -7,6 +7,15 @@ The project is based on the tutorial provided by
 
 modified the finger reading algrithem to make the game of Rock paper Scissor out of it 
 
+#### Libraries needed
+
+* cv2
+* imutils
+* numpy
+* sklearn
+
+use:
+
 Press Q to Quit at any time
 Press C to Caliberate
 
